@@ -1,4 +1,4 @@
-package com.ates.bookguide.Models;
+package com.ates.libraryapp.Models;
 
 import com.google.firebase.firestore.PropertyName;
 

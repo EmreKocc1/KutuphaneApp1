@@ -1,4 +1,4 @@
-package com.ates.bookguide;
+package com.ates.libraryapp;
 
 import android.app.Application;
 import android.app.NotificationChannel;

@@ -1,4 +1,4 @@
-package com.ates.bookguide;
+package com.ates.libraryapp;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -14,7 +14,7 @@ import android.util.Log;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.ates.bookguide.Models.Book;
+import com.ates.libraryapp.Models.Book;
 import com.firebase.ui.firestore.paging.FirestorePagingOptions;
 import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.auth.FirebaseAuth;

@@ -16,7 +16,7 @@
 # debugging stack traces.
 -keepattributes SourceFile,LineNumberTable
 -keepattributes Signature
--keepclassmembers class com.ates.bookguide.Models.Book {
+-keepclassmembers class com.ates.libraryapp.Models.Book {
       *;
     }
 
